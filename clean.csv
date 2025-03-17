@@ -1,0 +1,9 @@
+ID,NPS rating ,How was your visit?,Translated to English,PII Risk,Valid Answer
+1,8.0,OK,Okay,,
+2,,Great,Great,,
+3,5.0,Good in parts,Good in parts.,,
+4,5.0,良くも悪くもない,Neither good nor bad.,,
+5,9.0,Email me bogus@test.com,Email me bogus@test.com.,,
+6,3.0,Monday,Monday,,
+7,10.0,C'était merveilleux,It was wonderful.,,
+8,9.0,call me on +44 1234 567 890,Call me on +44 1234 567 890.,,
